@@ -1,0 +1,4 @@
+snoopminer
+==========
+
+speedcoin
